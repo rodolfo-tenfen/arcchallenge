@@ -2,15 +2,15 @@
 
 ## Synopsis
 
-This project is my resolution of **ArcTouch's Mobile Code Challenge**. It is an app that shows you a list of upcomming movies provided by The Movie Database's API. Clicking on a movie on the list gives you detailed information on it, also provided by TMDb. Finally the app also allows you to search The Movie Database using the full or partial title of a movie.
+This project is my resolution of **ArcTouch's Mobile Code Challenge**. It is an app that shows you a list of upcoming movies provided by The Movie Database's API. Clicking on a movie on the list gives you detailed information on it, also provided by TMDb. Finally the app also allows you to search The Movie Database using the full or partial title of a movie.
 
 ## Screenshots
 <p align="center">
 <img src="https://github.com/rodolfo-tenfen/arcchallenge/raw/dev/screenshots/main_activity.png" width="400"> <img src="https://github.com/rodolfo-tenfen/arcchallenge/raw/dev/screenshots/thor_ragnarok_details.png" width="400"> </p>
 
-## Instalation
+## Installation
 
-The app was developped targedint Android's SDK 26 (Oreo), but with minimum SDK 19 (KitKat). To run it simply download this project, import it to Android Studio and run it on an actual Android phone or on an Emulator.
+The app was developed targeting Android's SDK 26 (Oreo), but with minimum SDK 19 (KitKat). To run it simply download this project, import it to Android Studio and run it on an actual Android phone or on an Emulator.
 
 ## Libraries Used
 
