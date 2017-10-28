@@ -8,6 +8,6 @@
         android:title="@string/mi_search"
         app:showAsAction="always" />
     <item
-        android:id="@+id/mi_refresh"
-        android:title="@string/mi_refresh" />
+        android:id="@+id/mi_reload"
+        android:title="@string/mi_reload" />
 </menu>
